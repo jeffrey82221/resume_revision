@@ -8,7 +8,7 @@ jeffrey82221@gmail.com TW, Taipei
 
 ## CAREER SUMMARY
 
-6+ years of AI development experience, focusing on the design of large-scale AI product development, specialized in the design of software framework, SDK, and testing methods for optimizing the deployment flow of data science, ETL, and machine learning pipelines.
+6+ years of python software design experience, focusing on large-scale AI product development, specialized in the design of developer framework, SDK, and testing methods for optimizing the research/deployment flow of data science, ETL, and machine learning pipelines.
 
 4+ years of financial AI development experience, as the developer, product owner, and techical leader of data science department, participate in the prototyping, evaluation, and deployment phase of various data products, including house price and credit loan estimation services, and 360 degree customer value-and-risk knowledge graph data serices.
 
@@ -17,6 +17,15 @@ jeffrey82221@gmail.com TW, Taipei
 Having excellent code-quality standard, efficiency-oriented thinking, and perseverance in face of challenging problems; Continue absorbing “technical-nutrients” from the development of open-source AI community.
 
 ## PROJECT
+
+### Refactoring and Scale-Up Graph Data Service
+**2024/1-2024/12**
+**Goal**
+
+### Prototyping and Product Landing of Graph Data Service
+**2023/1-2023/12**
+**Goal**
+
 
 ### Next-Generation ETL Framework for Data Science Team
 
