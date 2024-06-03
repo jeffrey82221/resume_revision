@@ -10,7 +10,7 @@ jeffrey82221@gmail.com TW, Taipei
 
 6+ years of python software design experience, focusing on large-scale AI product development, specialized in the design of developer framework, SDK, and testing methods for optimizing the research/deployment flow of data science, ETL, and machine learning pipelines.
 
-4+ years of financial AI development experience, as the developer, product owner, and techical leader of data science department, participate in the prototyping, evaluation, and deployment phase of various data products, including house price and credit loan estimation services, and 360 degree customer value-and-risk knowledge graph data serices.
+4+ years of financial AI development experience, as the developer, product owner, and techical leader of data science department, participate in the prototyping, evaluation, and deployment phase of various data products, including house price and credit loan estimation services, and 360 degree customer knowledge graph data services.
 
 2+ year of participation in the technology management assistant bootcamp, with real-experience on business user support, gaining first-hand insight on financial and corporative AI usage via cross-department collaboration.
 
