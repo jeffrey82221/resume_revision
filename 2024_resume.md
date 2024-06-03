@@ -20,16 +20,19 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 ### Refactoring and Scale-Up Graph Data Service
 **2024/1-2024/12**
+
 **Goal**
 
 ### Prototyping and Product Landing of Graph Data Service
 **2023/1-2023/12**
+
 **Goal**
 
 
 ### Next-Generation ETL Framework for Data Science Team
 
 **2022/7-2022/12**
+
 **Goal:**
 1. Design a lightweight ETL python framework enabling data scientists to seamlessly deploy their pandas/SQL processes to airflow in a maintainable format.
 2. Reduce the maintenance and optimization cost of AI projects with integration of customizable data validation, metadata registration, and time/memory-profiling tools.
