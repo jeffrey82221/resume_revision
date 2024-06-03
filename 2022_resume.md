@@ -1,6 +1,4 @@
-Jeffrey Lin 
-
-# 2022履歷解構
+# 2022 Resume
 
 # Jeffrey Lin (林奕勳)
 
@@ -59,9 +57,10 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 4. Supporting parallel model hyper-parameter tuning via Ray (a general python parallelization framework).
 **Tools:** Pytorch-lightning, Ray, TensorBoard, pyflow-viz
 
-RESEARCH
-Develop techniques applicable to the music industry and design experiments for proof-of-concept
+# RESEARCH
+## Develop techniques applicable to the music industry and design experiments for proof-of-concept
 **2015/9-2020/1**
+
 Instructor: Professor Homer H. Chen
 
 Developed a context-based tag propagation method to reduce the training noise and successfully improved a deep
