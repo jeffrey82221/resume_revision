@@ -2,15 +2,18 @@
 
 # Jeffrey Lin (林奕勳)
 
-ESUN Bank, Intelligent Finance Technology Department, AI Engineer focusing on ML and Data Frameworks.
+ESUN Bank, Intelligent Finance Technology Department, AI Engineer focusing on building ML and Data Products and Frameworks.
 
 jeffrey82221@gmail.com TW, Taipei
 
 ## CAREER SUMMARY
 
-6+ years of deep learning research and development experience, with a strong ability in prototyping, evaluation, and deployment of models, in both academical and industrial environment.
-2+ years of financial AI development experience, specialized in the design of python API, SDK, and framework for optimizing the deployment flow of data science, ETL, and machine learning pipelines.
-1+ year of participation in the technology management assistant bootcamp, with real-experience on business user support, gaining first-hand insight on financial and corporative AI usage via cross-department collaboration.
+6+ years of AI development experience, focusing on the design of large-scale AI product development, specialized in the design of software framework, SDK, and testing methods for optimizing the deployment flow of data science, ETL, and machine learning pipelines.
+
+4+ years of financial AI development experience, as the developer, product owner, and techical leader of data science department, participate in the prototyping, evaluation, and deployment phase of various data products, including house price and credit loan estimation services, and 360 degree customer value-and-risk knowledge graph data serices.
+
+2+ year of participation in the technology management assistant bootcamp, with real-experience on business user support, gaining first-hand insight on financial and corporative AI usage via cross-department collaboration.
+
 Having excellent code-quality standard, efficiency-oriented thinking, and perseverance in face of challenging problems; Continue absorbing “technical-nutrients” from the development of open-source AI community.
 
 ## PROJECT
