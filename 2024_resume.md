@@ -27,7 +27,18 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 **2023/1-2023/12**
 
 **Goal**
+1. Prototype a graph data as a service to support business units on customer risk-and-value exploration. 
 
+**Responsibility**
+1. Collebrate with project manager to conduct user interviews and convert the insight into product design blue-print.
+2. Leading a development team of 3 data scientists to conduct raw data investigation, exploration, and transformation to enrich the graph data content.
+
+**Accomplishment**
+1. Release a company relationship investigation service of for the relationship manangers of E.SUN bank to find potential customers. 
+（連線總數、類型數、來源資料表數量）
+2. 警示日報
+3. Neo4j on develop environment. 
+(以服務為標題去描述，後面再放細項：對銀行的幫助、資料量等等）
 
 ### Next-Generation ETL Framework for Data Science Team
 
