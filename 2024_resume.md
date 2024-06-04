@@ -24,8 +24,8 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 **Goal**
 
 1. Reduce the data update latency and increase the overall throughout.
-2. Refactor the data pipeline architecture to enhance the data lineage explainabity for easier data usage governance. 
-3. Enhance the integration testing workflow to enhance development team's SQL code delivery efficiency and quality.
+2. Refactor the architecture to enhance the data lineage explainabity for easier data governance. 
+3. Enhance the integration testing workflow to facilitate team's code delivery efficiency and quality.
 
 ### Prototyping and Product Landing of Graph Data Service
 **2023/1-2023/12**
