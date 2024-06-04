@@ -54,6 +54,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 ### Scalable ETL Pipeline for Credit Loan Marketing Data
 **2021/8-2022/1**
+
 **Responsibility:**
 1. Orchestrate the cross-department coordination of the development process.
 2. Design a low-code python-SQL interface for the data-analyst of business unit and provide development and CICD guidance.
@@ -65,6 +66,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 3. Significantly speedup the pipeline from 5d to 8h via map-reduce parallelization with multiple Airflow worker nodes.
 ### PyTorch development framework for Industry-Academy Cooperation
 **2021/4-2022/8**
+
 **Goal:** Develop Pytorch model development framework to reduce the academy-to-company code migration cost.
 **Features:**
 1. Support training, validation, testing, weight/performance inspection, and check-pointing of models with different architecture.
