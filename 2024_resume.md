@@ -35,7 +35,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 **Accomplishment**
 1. Build from scratch the core of two E.SUN customer insight applications capable of connecting 7 types of enities (people/company/account/ip/device/phone/email) via over 14 types of relationships. 
-2. Setup a Neo4j development environment to speed up the pattern matching of risky account activities.
+2. Setup a Neo4j development environment to speed up the pattern matching of potential people connections and risky account activities.
 3. Build from scratch a RDB-to-GraphDB ETL development framework to ensure the extentability and maintainability of the platform.
 
 ### Next-Generation ETL Framework for Data Science Team
