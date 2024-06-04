@@ -30,8 +30,8 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 1. Prototype a graph datalake to support business units on customer risk-and-value exploration. 
 
 **Responsibility**
-1. Collebrate with project manager to conduct user interviews and convert the insight into product design blue-print.
-2. Leading a development team of 3 data scientists to conduct raw data exploration and transformation to enrich the graph data content.
+1. Collebrate with project manager to conduct user interviews and convert the insight into product blue-print.
+2. Leading a product development team of 3 data scientists to conduct raw data exploration and transformation to enrich the graph content.
 
 **Accomplishment**
 1. Build from scratch the core of two E.SUN customer insight applications capable of connecting 7 types of enities (people/company/account/ip/device/phone/email) via over 14 types of relationships. 
