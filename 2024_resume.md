@@ -82,6 +82,7 @@ API Service maintenance, code refactoring, and model performance enhancement for
 **2021/4-2022/8**
 
 **Goal:** Develop Pytorch model development framework to reduce the academy-to-company code migration cost.
+
 **Features:**
 1. Support training, validation, testing, weight/performance inspection, and check-pointing of models with different architecture.
 2. Fixed experimentation flow for all models with formatted running script and folder structure, to enhance code readability and reproducibility.
