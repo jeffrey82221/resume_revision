@@ -34,7 +34,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 2. Leading a development team of 3 data scientists to conduct raw data exploration and transformation to enrich the graph data content.
 
 **Accomplishment**
-1. Build from scratch a customer investigation platform capable of connecting people, company, account, ip, and device via over 8 types of relationships. 
+1. Build from scratch a customer insight platform capable of connecting people, company, account, ip, and device via over 8 types of relationships. 
 2. Setup a Neo4j development environment to speed up the pattern matching of risky account activities.
 3. Build from scratch a RDB-to-GraphDB ETL development framework to ensure the extentability and maintainability of the platform.
 
