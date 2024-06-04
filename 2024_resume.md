@@ -46,7 +46,8 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 ### Enhance and Maintain House Price and Mortgage Loan API
 **2022/2-2022/7**
 
-**Responsibility:**API Service maintenance, code refactoring, and model performance enhancement for the house-price/mortgage loan automatic appraisal system.
+**Responsibility:**
+API Service maintenance, code refactoring, and model performance enhancement for the house-price/mortgage loan automatic appraisal system.
 **Accomplishment:**
 1. **Encrypted API re-routing:** Re-route the internal mortgage API service as an encrypted API service for external client. Understand and implement the RSA/AES double encryption protocol under spec-ambiguous situation by investigating client-side PHP code.
 2. **Code refactor and migration:** Reduce the cognitive complexity of service code from 1000-line-single-file situation by thoroughly understanding the business logic and refactoring it into chain-of-command design pattern. Design common module with logging mechanism to reduce future maintenance cost. Draw and carry out the code migration plan without compromising the 24/7-criteria.
