@@ -72,10 +72,12 @@ API Service maintenance, code refactoring, and model performance enhancement for
 2. Design a low-code python-SQL interface for the data-analyst of business unit and provide development and CICD guidance.
 3. Ensure business-logic-extensibility in considerations of future marketing campaign.
 4. Ensure timely delivery of 7 million customer campaign data under 1day computation criteria.
+
 **Accomplishment:**
 1. Have helped the data-analyst of business unit successfully incorporate new campaign business logic into the production pipeline.
 2. A comprehensive tutorial to the development interface and CICD toolkits, enabling smooth new feature extension with zero-guidance.
 3. Significantly speedup the pipeline from 5d to 8h via map-reduce parallelization with multiple Airflow worker nodes.
+
 ### PyTorch development framework for Industry-Academy Cooperation
 **2021/4-2022/8**
 
