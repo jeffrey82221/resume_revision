@@ -27,18 +27,16 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 **2023/1-2023/12**
 
 **Goal**
-1. Prototype a graph data as a service to support business units on customer risk-and-value exploration. 
+1. Prototype a graph datalake to support business units on customer risk-and-value exploration. 
 
 **Responsibility**
 1. Collebrate with project manager to conduct user interviews and convert the insight into product design blue-print.
-2. Leading a development team of 3 data scientists to conduct raw data investigation, exploration, and transformation to enrich the graph data content.
+2. Leading a development team of 3 data scientists to conduct raw data exploration and transformation to enrich the graph data content.
 
 **Accomplishment**
-1. Release a company relationship investigation service of for the relationship manangers of E.SUN bank to find potential customers. 
-（連線總數、類型數、來源資料表數量）
-2. 警示日報
-3. Neo4j on develop environment. 
-(以服務為標題去描述，後面再放細項：對銀行的幫助、資料量等等）
+1. Build from scratch a customer investigation platform capable of connecting people, company, account, ip, and device via over 8 types of relationships. 
+2. Setup a Neo4j development environment to speed up the pattern matching of risky account activities.
+3. Build from scratch a RDB-to-GraphDB data transformation framework to enhance the speed and robustness of the data pipeline develoment.
 
 ### Next-Generation ETL Framework for Data Science Team
 
@@ -88,6 +86,7 @@ API Service maintenance, code refactoring, and model performance enhancement for
 2. Fixed experimentation flow for all models with formatted running script and folder structure, to enhance code readability and reproducibility.
 3. Support lazy evaluation and visualization of data pre-processing, avoid re-generation of data in experimentation scenario.
 4. Supporting parallel model hyper-parameter tuning via Ray (a general python parallelization framework).
+
 **Tools:** Pytorch-lightning, Ray, TensorBoard, pyflow-viz
 
 ## RESEARCH
