@@ -28,6 +28,8 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 3. Enhance the integration testing workflow to facilitate team's code delivery efficiency and quality.
 
 Increase throughtput: 42,220,000 rows in 3 hrs -> 42,000,000 rows in 1hrs 
+13.5 Gb totally in cold start 
+0.5 Mb incremental update every day
 
 
 ### Prototyping and Product Landing of Graph Data Service
