@@ -23,9 +23,12 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 **Goal**
 
-1. Reduce the data update latency and increase the overall throughout.
+1. Reduce the data update latency (3hr -> 1hr) and increase the overall throughout. 
 2. Refactor the architecture to enhance the data lineage explainabity for easier data governance. 
 3. Enhance the integration testing workflow to facilitate team's code delivery efficiency and quality.
+
+Increase throughtput: 42,220,000 rows in 3 hrs -> 42,000,000 rows in 1hrs 
+
 
 ### Prototyping and Product Landing of Graph Data Service
 **2023/1-2023/12**
@@ -38,7 +41,8 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 2. Leading a product development team of 3 data scientists to conduct raw data exploration and transformation to enrich the graph content.
 
 **Accomplishment**
-1. Build from scratch the core of two E.SUN customer insight applications capable of connecting 7 types of enities (people/company/account/ip/device/phone/email) via over 14 types of relationships. 
+1. Build from scratch the core of two E.SUN customer insight applications capable of connecting 7 types of enities (people/company/account/ip/device/phone/email) via 15 types of relationships.
+    * NOTE: has_email, use_device, cashflow, supply, invest, works_for, kinship, has_loan_guarantor, use_ip, transaction, register, is_fa_of, has_phone, is_ubo_of, has_account
 2. Setup a Neo4j development environment to speed up the pattern matching of people connections and risky account activities.
 3. Build from scratch a RDB-to-GraphDB ETL development framework to ensure the extentability and maintainability of the product.
 
