@@ -27,10 +27,12 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 2. Refactor the architecture to enhance the data lineage explainabity for easier data governance. 
 3. Enhance the integration testing workflow to facilitate team's code delivery efficiency and quality.
 
-Increase throughtput: 42,220,000 rows in 3 hrs -> 42,000,000 rows in 1hrs 
-13.5 Gb totally in cold start 
+Increase throughtput: 42,220,000 rows in 3 hrs -> 42,000,000 rows in 1hrs 13.5 Gb totally in cold start. 
 0.5 Mb incremental update every day
 dag and task count: old vs new
+Manage column level lineage across ? input tabls xxx temporary tables and xxx output tables.
+continuous schema evolution mechanism. 
+
 
 ### Prototyping and Product Landing of Graph Data Service
 **2023/1-2023/12**
