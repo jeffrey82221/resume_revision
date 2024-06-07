@@ -30,7 +30,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 Increase throughtput: 42,220,000 rows in 3 hrs -> 42,000,000 rows in 1hrs 
 13.5 Gb totally in cold start 
 0.5 Mb incremental update every day
-
+dag and task count: old vs new
 
 ### Prototyping and Product Landing of Graph Data Service
 **2023/1-2023/12**
