@@ -19,8 +19,12 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 ## Skills
 1. Large-scale Analytical Data Pipeline Design, Development, and Maintainance (on Airflow). 
 2. Relational and Graph Data ETL developement (Postgres DB, Duck DB, Neo4j, pandas, polars, and cuDF). 
-3. Python/Rust tools developement (In-house python packages: sql-tools, etl-framework, avm-tool; PyPi packages: [batch-framework](https://pypi.org/project/batch-framework/), [JSkiner](https://pypi.org/project/JSkiner/), [regex-inference](https://pypi.org/project/regex-inference/), [random-regex](https://pypi.org/project/random-regex/), [jsonschema-inference](https://pypi.org/project/jsonschema-inference/))
-5. Machine Learning and Deep Learning Models Training and Deployment (tools: pytorch, tensorflow, pytorch-lightning, scipy, skleaarn.)
+3. Python tools developement:
+   - Esun in-house python packages for AI operation: sql-tools, etl-framework, avm-tool
+   - Self-owned PyPi etl packages: [batch-framework](https://pypi.org/project/batch-framework/)
+   - Rust-based Python package: [JSkiner](https://pypi.org/project/JSkiner/)
+   - Other PyPi packages: [regex-inference](https://pypi.org/project/regex-inference/), [random-regex](https://pypi.org/project/random-regex/), [jsonschema-inference](https://pypi.org/project/jsonschema-inference/)
+4. Machine Learning and Deep Learning Models Training and Deployment (tools: pytorch, tensorflow, pytorch-lightning, scipy, skleaarn.)
 
 ## PROJECT
 
