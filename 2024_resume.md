@@ -33,6 +33,31 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 ## PROJECT
 
+### Scale-Up Data Pipeline of Graph Data as a Service
+**2024/1-2024/12**
+
+**Goal**
+
+1. Refactor a RDB-to-Graph DB data pipeline architecture to enhance its scalability and maintainability. 
+2. Reduce the data update latency and increase the overall throughout. 
+3. Enhance the data lineage explainabity for easier data governance. 
+4. Enhance the integration testing workflow to facilitate team's code delivery efficiency and quality.
+
+**Responsibility**
+
+- Responsible for planning new architecture component specifications based on the goals set by the manager.
+- Assisted the manager in translating objectives into development tasks for team members and clarifying task dependencies.
+- Conducted code reviews to ensure development quality and managed the integration and conflict resolution of features.
+
+**Accomplishment**
+
+1. Speed up the service data reload time from 3 hrs to 1 hrs by re-organizing the ETL parallization on airflow to improve the overall throughout. 
+2. Dramatically reduce the data update latency from 3 hrs to 0.5 hrs by incorporating incremental update mechanisms, reducing the daily computation and networking of data from 13.5 Gb to 0.5 Mb.
+3. Enhance code managability, team agility, and data quality across 21 input tables, 22 output tables, and 340 in-between temp tables by dividing the ETL procedures into 4 layers (I.data cleansing, II. ID re-mapping, III. node/link extraction, and IV. node/link aggregation) with between-layer functional tests and data validation mechanisms to ensure data quality. 
+4. Develop supports on column-level data lineage explainability by using SQL parsing tool to help PM and users efficiently pinpoint the source of each graph content (node, link, and their property) from last layer to the first layer. 
+5. Design the day-two operation stategy and implement dashboard and alert mechansim to monitor the everyday status of the data pipeline.
+
+
 ### Prototyping and Product Landing of Graph Data Service
 **2023/1-2023/12**
 
@@ -48,29 +73,6 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 2. Setup a Neo4j development environment to speed up the pattern matching of people connections and risky account activities.
 3. Build from scratch a RDB-to-GraphDB ETL development framework to ensure the extentability and maintainability of the product.
 
-
-### Scale-Up Data Pipeline of Graph Data as a Service
-**2024/1-2024/12**
-
-**Goal**
-
-1. Reduce the data update latency and increase the overall throughout of a RDB-to-Graph DB data pipeline. 
-2. Refactor the architecture to enhance the data lineage explainabity for easier data governance. 
-3. Enhance the integration testing workflow to facilitate team's code delivery efficiency and quality.
-
-**Responsibility**
-
-- Responsible for planning new architecture component specifications based on the goals set by the manager.
-- Assisted the manager in translating objectives into development tasks for team members and clarifying task dependencies.
-- Conducted code reviews to ensure development quality and managed the integration and conflict resolution of features.
-
-**Accomplishment**
-
-1. Speed up the service data reload time from 3 hrs to 1 hrs by re-organizing the ETL parallization on airflow to improve the overall throughout. 
-2. Dramatically reduce the data update latency from 3 hrs to 0.5 hrs by incorporating incremental update mechanisms, reducing the daily computation and networking of data from 13.5 Gb to 0.5 Mb.
-3. Enhance code managability, team agility, and data quality across 21 input tables, 22 output tables, and 340 in-between temp tables by dividing the ETL procedures into 4 layers (I.data cleansing, II. ID re-mapping, III. node/link extraction, and IV. node/link aggregation) with between-layer functional tests and data validation mechanisms to ensure data quality. 
-4. Develop supports on column-level data lineage explainability by using SQL parsing tool to help PM and users efficiently pinpoint the source of each graph content (node, link, and their property) from last layer to the first layer. 
-5. Design the day-two operation stategy and implement dashboard and alert mechansim to monitor the everyday status of the data pipeline.
 
 
 ### Next-Generation ETL Framework for Data Science Team
