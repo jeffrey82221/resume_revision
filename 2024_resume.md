@@ -136,3 +136,7 @@ Conduct error analysis to understand the problem in the training data using Matp
 hyper-parameters during model development. Accelerate the evaluation and data visualization process using ray, a
 parallel processing package.
 
+## Education 
+
+
+
