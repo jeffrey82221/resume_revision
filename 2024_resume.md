@@ -33,7 +33,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 ## PROJECT
 
-### Enhance and Scale-Up Data Pipeline of Graph Data as a Service
+### Scale-Up Data Pipeline of Graph Data as a Service
 **2024/1-2024/12**
 
 **Goal**
