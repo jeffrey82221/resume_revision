@@ -55,7 +55,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 2. Dramatically reduce the data update latency from 3 hrs to 0.5 hrs by incorporating incremental update mechanisms, reducing the daily computation and networking of data from 13.5 Gb to 0.5 Mb.
 3. Enhance code managability, team agility, and data quality across 21 input and 22 output tables and 340 in-between temporary tables by dividing the ETL procedure into 4 layers (I. column-cleaning, II. re-mapping, III. node/link extraction, and IV. node/link aggregation) with layer-wise functional testing and between-layer data validation to ensure data and code quality. 
 4. Apply column-level lineage parsing to all SQLs to supports easier identification of the source for each graph content (node, link, and their property). 
-5. Design the day-two operation strategy and implement dashboard and alert mechansim to monitor the pipeline accordingly.
+5. Design the day-two operation strategy and implement dashboard and alert mechansim to monitor the pipeline.
 
 ### Prototyping and Product Landing of Graph Data Service
 **2023/1-2023/12**
