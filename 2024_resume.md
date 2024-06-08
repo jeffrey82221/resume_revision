@@ -17,18 +17,18 @@ jeffrey82221@gmail.com TW, Taipei
 Having excellent code-quality standard, efficiency-oriented thinking, and perseverance in face of challenging problems; Continue absorbing “technical-nutrients” from the development of open-source AI community.
 
 ## Skills
-1. Computer Languages: Rust, Python, C++, Jave, SQL, cypher. 
-2. Tools for Machine Learning and Deep Learning Models Training and Deployment: Pytorch, Tensorflow, pytorch-lightning, scipy, LightGBM, sklearn, DeepGraphLibrary.)
-3. Data Engineering Skills:
-   - Experience in Large-scale Analytical Data Service Design, Development, and Maintainance (Airflow, Kibana, FastAPI, Grafana). 
-   - Familiar with Relational and Graph Data Processing Tools (Postgres DB, Duck DB, Neo4j, pandas, polars, and cuDF, PostgresSQL, cypher, Ray). 
-4. Python tools developement:
-   - Esun in-house python packages for AI operation: sql-tools, [etl-framework](https://coscup.org/2023/zh-TW/session/FHMWYE), avm-tool
-   - Package for ETL: [batch-framework](https://pypi.org/project/batch-framework/)
-   - Rust-based Python package: [JSkiner](https://pypi.org/project/JSkiner/)
-   - LLM-based PyPi package: [regex-inference](https://pypi.org/project/regex-inference/)
-   - Other PyPi packages: [random-regex](https://pypi.org/project/random-regex/), [jsonschema-inference](https://pypi.org/project/jsonschema-inference/)
-5. Project Management: Scrum, Kanban, Gantt Chart.  
+- Computer Languages: Rust, Python, C++, Jave, SQL, cypher. 
+- Tools for Machine Learning and Deep Learning Models Training and Deployment: Pytorch, Tensorflow, pytorch-lightning, scipy, LightGBM, sklearn, DeepGraphLibrary.)
+- Data Engineering Skills:
+  1. Experience in Large-scale Analytical Data Service Design, Development, and Maintainance (Airflow, Kibana, FastAPI, Grafana). 
+  2. Familiar with Relational and Graph Data Processing Tools (Postgres DB, Duck DB, Neo4j, pandas, polars, and cuDF, PostgresSQL, cypher, Ray). 
+- Python tools developement:
+  1. Esun in-house python packages for AI operation: sql-tools, [etl-framework](https://coscup.org/2023/zh-TW/session/FHMWYE), avm-tool
+  2. Package for ETL: [batch-framework](https://pypi.org/project/batch-framework/)
+  3. Rust-based Python package: [JSkiner](https://pypi.org/project/JSkiner/)
+  4. LLM-based PyPi package: [regex-inference](https://pypi.org/project/regex-inference/)
+  5. Other PyPi packages: [random-regex](https://pypi.org/project/random-regex/), [jsonschema-inference](https://pypi.org/project/jsonschema-inference/)
+- Project Management: Scrum, Kanban, Gantt Chart.  
 
 
 ## PROJECT
