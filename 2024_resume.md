@@ -29,11 +29,12 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 **Responsibility**
 
-- Responsible for planning new architecture component specifications based on the goals set by data management team leader.
+- Responsible for planning new architecture component specifications based on the goals set by the new team leader.
 - Assisted the team leader in translating objectives into development tasks for team members and clarifying task dependencies.
 - Conducted code reviews to ensure development quality and managed the integration and conflict resolution of features.
 
 **Accomplishment**
+
 1. Speed up the service data reload time from 3 hrs to 1 hrs by re-organizing the ETL parallization on airflow to improve the overall throughout. 
 2. Dramatically reduce the data update latency from 3 hrs to 0.5 hrs by incorporating incremental update mechanisms, reducing the daily computation and networking of data from 13.5 Gb to 0.5 Mb.
 3. Enhance code managability, team agility, and data quality across 21 input tables, 22 output tables, and 340 in-between temp tables by dividing the RDB-to-GraphDB ETL procedures into 4 layers (I.data cleansing, II. ID re-mapping, III. node/link extraction, and IV. node/link aggregation) with between-layer functional tests and data validation mechanisms to ensure data quality. 
@@ -51,8 +52,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 2. Leading a product development team of 3 data scientists to conduct raw data exploration and transformation to enrich the graph content.
 
 **Accomplishment**
-1. Build from scratch the core of two E.SUN customer insight applications capable of connecting 7 types of enities (people/company/account/ip/device/phone/email) via 15 types of relationships.
-    * NOTE: has_email, use_device, cashflow, supply, invest, works_for, kinship, has_loan_guarantor, use_ip, transaction, register, is_fa_of, has_phone, is_ubo_of, has_account
+1. Build from scratch the core of two E.SUN customer insight applications capable of connecting 7 types of enities (people/company/account/ip/device/phone/email) via 15 types of in-between relationships.
 2. Setup a Neo4j development environment to speed up the pattern matching of people connections and risky account activities.
 3. Build from scratch a RDB-to-GraphDB ETL development framework to ensure the extentability and maintainability of the product.
 
