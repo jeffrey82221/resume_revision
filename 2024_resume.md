@@ -29,8 +29,8 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 **Responsibility**
 
-- Responsible for planning new architecture component specifications based on the goals set by the new team leader.
-- Assisted the team leader in translating objectives into development tasks for team members and clarifying task dependencies.
+- Responsible for planning new architecture component specifications based on the goals set by the manager.
+- Assisted the manager in translating objectives into development tasks for team members and clarifying task dependencies.
 - Conducted code reviews to ensure development quality and managed the integration and conflict resolution of features.
 
 **Accomplishment**
