@@ -21,9 +21,10 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 2. Relational and Graph Data ETL developement (Postgres DB, Duck DB, Neo4j, pandas, polars, and cuDF). 
 3. Python tools developement:
    - Esun in-house python packages for AI operation: sql-tools, etl-framework, avm-tool
-   - Self-owned PyPi etl packages: [batch-framework](https://pypi.org/project/batch-framework/)
+   - Package for ETL: [batch-framework](https://pypi.org/project/batch-framework/)
    - Rust-based Python package: [JSkiner](https://pypi.org/project/JSkiner/)
-   - Other PyPi packages: [regex-inference](https://pypi.org/project/regex-inference/), [random-regex](https://pypi.org/project/random-regex/), [jsonschema-inference](https://pypi.org/project/jsonschema-inference/)
+   - LLM-based PyPi package: [regex-inference](https://pypi.org/project/regex-inference/)
+   - Other PyPi packages: [random-regex](https://pypi.org/project/random-regex/), [jsonschema-inference](https://pypi.org/project/jsonschema-inference/)
 4. Machine Learning and Deep Learning Models Training and Deployment (tools: pytorch, tensorflow, pytorch-lightning, scipy, skleaarn.)
 
 ## PROJECT
