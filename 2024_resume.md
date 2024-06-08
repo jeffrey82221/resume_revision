@@ -33,6 +33,22 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 ## PROJECT
 
+### Prototyping and Product Landing of Graph Data Service
+**2023/1-2023/12**
+
+**Goal**
+1. Prototype a graph datalake to support business units on customer risk-and-value exploration. 
+
+**Responsibility**
+1. Collebrate with project manager to conduct user interviews and convert the insight into product blue-print.
+2. Leading a product development team of 3 data scientists to conduct raw data exploration and transformation to enrich the graph content.
+
+**Accomplishment**
+1. Build from scratch the core of two E.SUN customer insight applications capable of connecting 7 types of enities (people/company/account/ip/device/phone/email) via 15 types of in-between relationships.
+2. Setup a Neo4j development environment to speed up the pattern matching of people connections and risky account activities.
+3. Build from scratch a RDB-to-GraphDB ETL development framework to ensure the extentability and maintainability of the product.
+
+
 ### Scale-Up Data Pipeline of Graph Data as a Service
 **2024/1-2024/12**
 
@@ -56,20 +72,6 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 4. Develop supports on column-level data lineage explainability by using SQL parsing tool to help PM and users efficiently pinpoint the source of each graph content (node, link, and their property) from last layer to the first layer. 
 5. Design the day-two operation stategy and implement dashboard and alert mechansim to monitor the everyday status of the data pipeline.
 
-### Prototyping and Product Landing of Graph Data Service
-**2023/1-2023/12**
-
-**Goal**
-1. Prototype a graph datalake to support business units on customer risk-and-value exploration. 
-
-**Responsibility**
-1. Collebrate with project manager to conduct user interviews and convert the insight into product blue-print.
-2. Leading a product development team of 3 data scientists to conduct raw data exploration and transformation to enrich the graph content.
-
-**Accomplishment**
-1. Build from scratch the core of two E.SUN customer insight applications capable of connecting 7 types of enities (people/company/account/ip/device/phone/email) via 15 types of in-between relationships.
-2. Setup a Neo4j development environment to speed up the pattern matching of people connections and risky account activities.
-3. Build from scratch a RDB-to-GraphDB ETL development framework to ensure the extentability and maintainability of the product.
 
 ### Next-Generation ETL Framework for Data Science Team
 
