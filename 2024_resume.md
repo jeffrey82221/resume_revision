@@ -16,6 +16,12 @@ jeffrey82221@gmail.com TW, Taipei
 
 Having excellent code-quality standard, efficiency-oriented thinking, and perseverance in face of challenging problems; Continue absorbing “technical-nutrients” from the development of open-source AI community.
 
+## Skills
+1. Large-scale Analytical Data Pipeline Design, Development, and Maintainance (on Airflow). 
+2. Relational and Graph Data ETL developement (Postgres DB, Duck DB, Neo4j, pandas, polars, and cuDF). 
+3. Python/Rust tools developement (In-house python packages: sql-tools, etl-framework, avm-tool; PyPi packages: [batch-framework](https://pypi.org/project/batch-framework/), [JSkiner](https://pypi.org/project/JSkiner/), [regex-inference](https://pypi.org/project/regex-inference/), [random-regex](https://pypi.org/project/random-regex/), [jsonschema-inference](https://pypi.org/project/jsonschema-inference/))
+5. Machine Learning and Deep Learning Models Training and Deployment (tools: pytorch, tensorflow, pytorch-lightning, scipy, skleaarn.)
+
 ## PROJECT
 
 ### Enhance and Scale-Up the Data Pipeline of Graph Data as a Service
