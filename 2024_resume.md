@@ -18,7 +18,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 ## Skills
 1. Large-scale Analytical Data Pipeline Design, Development, and Maintainance (on Airflow). 
-2. Relational and Graph Data ETL developement (Postgres DB, Duck DB, Neo4j, pandas, polars, and cuDF). 
+2. Relational and Graph Data ETL developement (Postgres DB, Duck DB, Neo4j, pandas, polars, and cuDF, SQL, cypher). 
 3. Python tools developement:
    - Esun in-house python packages for AI operation: sql-tools, [etl-framework](https://coscup.org/2023/zh-TW/session/FHMWYE), avm-tool
    - Package for ETL: [batch-framework](https://pypi.org/project/batch-framework/)
@@ -29,12 +29,12 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 ## PROJECT
 
-### Enhance and Scale-Up the Data Pipeline of Graph Data as a Service
+### Enhance and Scale-Up Data Pipeline of Graph Data as a Service
 **2024/1-2024/12**
 
 **Goal**
 
-1. Reduce the data update latency and increase the overall throughout. 
+1. Reduce the data update latency and increase the overall throughout of a RDB-to-Graph DB data pipeline. 
 2. Refactor the architecture to enhance the data lineage explainabity for easier data governance. 
 3. Enhance the integration testing workflow to facilitate team's code delivery efficiency and quality.
 
@@ -48,7 +48,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 1. Speed up the service data reload time from 3 hrs to 1 hrs by re-organizing the ETL parallization on airflow to improve the overall throughout. 
 2. Dramatically reduce the data update latency from 3 hrs to 0.5 hrs by incorporating incremental update mechanisms, reducing the daily computation and networking of data from 13.5 Gb to 0.5 Mb.
-3. Enhance code managability, team agility, and data quality across 21 input tables, 22 output tables, and 340 in-between temp tables by dividing the RDB-to-GraphDB ETL procedures into 4 layers (I.data cleansing, II. ID re-mapping, III. node/link extraction, and IV. node/link aggregation) with between-layer functional tests and data validation mechanisms to ensure data quality. 
+3. Enhance code managability, team agility, and data quality across 21 input tables, 22 output tables, and 340 in-between temp tables by dividing the ETL procedures into 4 layers (I.data cleansing, II. ID re-mapping, III. node/link extraction, and IV. node/link aggregation) with between-layer functional tests and data validation mechanisms to ensure data quality. 
 4. Develop supports on column-level data lineage explainability by using SQL parsing tool to help PM and users efficiently pinpoint the source of each graph content (node, link, and their property) from last layer to the first layer. 
 5. Design the day-two operation stategy and implement dashboard and alert mechansim to monitor the everyday status of the data pipeline.
 
