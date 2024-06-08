@@ -20,7 +20,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 1. Large-scale Analytical Data Pipeline Design, Development, and Maintainance (on Airflow). 
 2. Relational and Graph Data ETL developement (Postgres DB, Duck DB, Neo4j, pandas, polars, and cuDF). 
 3. Python tools developement:
-   - Esun in-house python packages for AI operation: sql-tools, etl-framework, avm-tool
+   - Esun in-house python packages for AI operation: sql-tools, [etl-framework](https://coscup.org/2023/zh-TW/session/FHMWYE), avm-tool
    - Package for ETL: [batch-framework](https://pypi.org/project/batch-framework/)
    - Rust-based Python package: [JSkiner](https://pypi.org/project/JSkiner/)
    - LLM-based PyPi package: [regex-inference](https://pypi.org/project/regex-inference/)
