@@ -39,7 +39,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 **Goal**
 
 1. Refactor a RDB-to-Graph DB data pipeline architecture to enhance its scalability and maintainability. 
-2. Reduce the data update latency and increase the data reload throughout. 
+2. Reduce the data update latency and increase the data reload throughput. 
 3. Enhance the data lineage explainabity for easier data governance. 
 4. Enhance the integration testing workflow to facilitate team's code delivery efficiency and quality.
 
