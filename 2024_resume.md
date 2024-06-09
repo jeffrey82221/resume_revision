@@ -51,7 +51,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 **Accomplishment**
 
-1. Speed up the data reload time from 3 hrs to 1 hrs by enhance the ETL parallization schema on airflow. 
+1. Speed up the data reload time from 3 hrs to 1 hrs by enhancing the ETL parallization scheme on airflow. 
 2. Dramatically reduce the data update latency from 3 hrs to 0.5 hrs by incorporating incremental update mechanisms, reducing the daily computation and networking of data from 13.5 Gb to 0.5 Mb.
 3. Enhance code managability, team agility, and data quality across 21 input and 22 output tables and 340 in-between temporary tables by dividing the ETL procedure into 4 layers (I. column-cleaning, II. re-mapping, III. node/link extraction, and IV. node/link aggregation) with layer-wise functional testing and between-layer data validation to ensure data and code quality. 
 4. Apply column-level lineage parsing to all SQLs to supports easier identification of the source for each graph content (node, link, and their property). 
