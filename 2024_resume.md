@@ -51,11 +51,11 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 **Accomplishment**
 
-1. Speed up the data reload time from 3 hrs to 1 hrs by enhancing the ETL parallization scheme on airflow. 
-2. Dramatically reduce the data update latency from 3 hrs to 0.5 hrs by incorporating incremental update mechanisms, reducing the daily computation and networking of data from 13.5 Gb to 0.5 Mb.
+1. Speed up the data reload time from 2.7 hrs to 1.2 hrs. 
+2. Dramatically reduce the data update latency from 2.7 hrs to 1.2 hrs by incorporating incremental update mechanisms, reducing the daily computation and networking of data from 13.5 Gb to 0.5 Mb.
 3. Enhance code managability, team agility, and data quality across 37 input and 26 output tables and 209 in-between temporary tables by dividing the ETL procedure into 5 layers of 450 tasks (I. column-cleaning: 37 x 3 tasks, II. re-mapping: 30 tasks, III. node/link extraction: 179 tasks, IV. node/link aggregation: 26 tasks, and V. neo4j injestion: 26 x 4 tasks) with layer-wise functional testing and between-layer data validation to ensure data and code quality. 
-4. Apply column-level lineage parsing to all SQLs to supports easier identification of the source for each graph content (node, link, and their property). 
-5. Design the day-two operation strategy and implement dashboard and alert mechansim to monitor the pipeline.
+4. Apply column-level lineage parsing to all SQLs to support easier identification of the source for each graph content (aka. nodes, links, and their property). 
+5. Design the day-two operation strategy and implement dashboard and alert mechanism to monitor the pipeline.
 
 ### Prototyping and Product Landing of Graph Data Service
 **2023/1-2023/12**
