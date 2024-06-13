@@ -132,15 +132,17 @@ API Service maintenance, code refactoring, and model performance enhancement for
 
 Instructor: Professor Homer H. Chen
 
-Developed a context-based tag propagation method to reduce the training noise and successfully improved a deep
+- Developed a context-based tag propagation method to reduce the training noise and successfully improved a deep
 music auto-tagging model (SampleCNN) by 25.8% in the MAP.
-Enhance the robustness of the tag propagation method and successfully extended the improvement to two other
+- Enhance the robustness of the tag propagation method and successfully extended the improvement to two other
 neural networks (CRNN and 2D-CNN) with the increase of improvement reaches 6.5%, 4.9%, and 5.5% (for
 SampleCNN, CRNN, and 2D-CNN, respectively).
 
-**Responsibility**: Build up the experiment acceleration (via GPU) environment on a Linux-based server; Design the
+**Responsibility**: 
+
+- Build up the experiment acceleration (via GPU) environment on a Linux-based server; Design the
 model evaluation and training strategy with TensorFlow.
-Conduct error analysis to understand the problem in the training data using Matplotlib and Seaborn. Tune the
+- Conduct error analysis to understand the problem in the training data using Matplotlib and Seaborn. Tune the
 hyper-parameters during model development. Accelerate the evaluation and data visualization process using ray, a
 parallel processing package.
 
