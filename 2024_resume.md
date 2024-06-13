@@ -146,13 +146,13 @@ parallel processing package.
 
 ## Education 
 
-## M.S. in Graduate Institude of Communication Engineering, National Taiwan University
+### M.S. in Graduate Institude of Communication Engineering, National Taiwan University
 **2015/9~2020/1**
 
 - Multimedia Signal Processing (A)
 - Computational Methods and Tools for Data Science (A): Familiarize myself with basic EDA techniques. 
 
-## B.S. in Electrical Engineering Department, National Tsing Hua University
+### B.S. in Electrical Engineering Department, National Tsing Hua University
 
 - Programming and Hardware Classes: Logic Design (A+) / Logic Design Lab - verilog and FPGA (A+) / Embedding System Lab - C language on Arduino (A+) / Computer Programming Design - C++ (A+)
 - Math Classes: Calculus I&II (A+/A+) / Linear Algebra (A+) / Numerical Analysis (A)
