@@ -47,7 +47,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 - Responsible for planning new architecture components based on the goals set by the manager.
 - Assist the manager in translating objectives into development tasks for team members and clarifying task dependencies.
-- Conduct code reviews to ensure development quality and managed the integration and conflict resolution of features.
+- Conduct code reviews to ensure development quality and manage the integration and conflict resolution of features.
 
 **Accomplishment**
 
