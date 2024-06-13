@@ -46,8 +46,8 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 **Responsibility**
 
 - Responsible for planning new architecture components based on the goals set by the manager.
-- Assisted the manager in translating objectives into development tasks for team members and clarifying task dependencies.
-- Conducted code reviews to ensure development quality and managed the integration and conflict resolution of features.
+- Assist the manager in translating objectives into development tasks for team members and clarifying task dependencies.
+- Conduct code reviews to ensure development quality and managed the integration and conflict resolution of features.
 
 **Accomplishment**
 
@@ -65,7 +65,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 **Responsibility**
 1. Collebrate with project manager to conduct user interviews and convert the insight into product blue-print.
-2. Leading a product development team of 3 data scientists to conduct raw data exploration and transformation to enrich the graph content.
+2. Lead a product development team of 3 data scientists to conduct raw data exploration and transformation to enrich the graph content.
 
 **Accomplishment**
 1. Build from scratch the core of two E.SUN customer insight applications capable of connecting 7 types of enities (people/company/account/ip/device/phone/email) via 15 types of in-between relationships.
