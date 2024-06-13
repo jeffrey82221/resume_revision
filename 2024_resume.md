@@ -51,11 +51,14 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 
 **Accomplishment**
 
-1. Speed up the data reload time from 2.7 hrs to 1.2 hrs. 
-2. Dramatically reduce the data update latency from 2.7 hrs to 1.2 hrs by incorporating incremental update mechanisms, reducing the daily computation and networking of data from 13.5 Gb to 0.5 Mb.
-3. Enhance code managability, team agility, and data quality across 37 input and 26 output tables and 209 in-between temporary tables by dividing the ETL procedure into 5 layers of 450 tasks (I. column-cleaning: 37 x 3 tasks, II. re-mapping: 30 tasks, III. node/link extraction: 179 tasks, IV. node/link aggregation: 26 tasks, and V. neo4j injestion: 26 x 4 tasks) with layer-wise functional testing and between-layer data validation to ensure data and code quality. 
-4. Apply column-level lineage parsing to all SQLs to support easier identification of the source for each graph content (aka. nodes, links, and their property). 
-5. Design the day-two operation strategy and implement dashboard and alert mechanism to monitor the pipeline.
+1. Dramatically reduce the data update latency from 2.7 hrs to 1.2 hrs by incorporating incremental update mechanisms, reducing the daily computation and networking of data from 13.5 Gb to 0.5 Mb.
+2. Enhance code managability, team agility, and data quality:
+   - Across 37 input and 26 output tables and 209 in-between temporary tables.
+   - How?
+      - Decompose ETL procedures into 5 layers of 450 tasks (I. column-cleaning: 37 x 3 tasks, II. re-mapping: 30 tasks, III. node/link extraction: 179 tasks, IV. node/link aggregation: 26 tasks, and V. neo4j injestion: 26 x 4 tasks).
+      - Adopt layer-wise functional testing and between-layer data validation.
+3. Apply column-level lineage parsing to all SQLs to support easier identification of the source for each of the graph elements (aka. node, link, and their properties). 
+4. Design the day-two operation strategy and implement dashboard and alert mechanism to monitor the pipeline.
 
 ### Prototyping and Product Landing of Graph Data Service
 **2023/1-2023/12**
@@ -71,8 +74,6 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 1. Build from scratch the core of two E.SUN customer insight applications capable of connecting 7 types of enities (people/company/account/ip/device/phone/email) via 15 types of in-between relationships.
 2. Setup a Neo4j development environment to speed up the pattern matching of people connections and risky account activities.
 3. Build from scratch a RDB-to-GraphDB ETL development framework to ensure the extentability and maintainability of the product.
-
-
 
 ### Next-Generation ETL Framework for Data Science Team
 
