@@ -22,7 +22,7 @@ Having excellent code-quality standard, efficiency-oriented thinking, and persev
 - Data Engineering Skills:
   1. Experience in Large-scale Analytical Data Service Design, Development, and Maintainance (Airflow, Kibana, FastAPI, Grafana). 
   2. Familiar with Relational and Graph Data Processing Tools (Postgres DB, Duck DB, Neo4j, pandas, polars, and cuDF, PostgresSQL, cypher, Ray). 
-- Python tools developement:
+- Python tools development:
   1. Esun in-house python packages for AI operation: sql-tools, [etl-framework](https://coscup.org/2023/zh-TW/session/FHMWYE), avm-tool
   2. Package for ETL: [batch-framework](https://pypi.org/project/batch-framework/)
   3. Rust-based Python package: [JSkiner](https://pypi.org/project/JSkiner/)
