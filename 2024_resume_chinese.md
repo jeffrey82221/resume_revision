@@ -18,11 +18,11 @@ Jeffrey82221@gmail.com TW, 臺北
 
 ## 技能
 
--計算機語言：Rust、Python、C++、Jave、SQL、Cypher
+- 程式語言：Rust、Python、C++、Jave、SQL、Cypher
 
 - 機器學習和深度學習模型培訓和部署工具：Pytorch、Tensorflow、pytorch-lightning、scipy、LightGBM、sklearn、DeepGraphLibrary
 
--資料工程技能：
+- 資料工程技能：
 
 1. 大規模分析型資料服務設計、開發和維護的經驗 （使用Airflow、Kibana、FastAPI、Grafana）
 
