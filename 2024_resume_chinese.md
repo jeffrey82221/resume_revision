@@ -2,45 +2,48 @@
 
 # Jeffrey Lin (林奕勳)
 
-ESUN銀行，智慧金融技術部，人工智慧工程師，專注於構建ML和資料產品與框架。
+玉山銀行，智慧金融處-技術中心，人工智慧工程師，專注於構建ML和數據產品與處理框架。
 
 Jeffrey82221@gmail.com TW, 臺北
 
 ## 職業總結
 
-6年以上python軟體設計經驗，專注於大規模人工智慧產品開發，專門設計開發人員框架、SDK和測試方法，以最佳化資料科學、ETL和機器學習管道的研究/部署流程。
+6年以上python開發經驗，專注於大規模人工智慧產品開發，設計相關開發框架和測試方法，以最佳化資料科學和機器學習的研究與部署流程。
 
-4年以上的金融人工智慧開發經驗，作為開發人員、產品所有者和資料科學部門的技術主管，參與各種資料產品的原型、評估和部署階段，包括房屋價格和信貸貸款估算服務，以及360度客戶知識圖表資料服務。
+4年以上的金融人工智慧開發經驗，作為開發人員、產品負責人和資料科學部門的專案技術領導，參與各種資料產品的原型設計、開發和部署階段，包括房屋價格和信貸貸款估算服務，以及360度客戶知識圖譜資料服務。
 
-參加技術管理助理訓練營2年以上，擁有業務使用者支援的真實經驗，透過跨部門合作獲得關於財務和企業人工智慧使用的第一手見解。
+參加玉山銀行TMA訓練2年以上，擁有實際支援業務使用者的經驗，並參與關於財務和企業人工智慧推廣的跨部門合作。
 
-擁有出色的程式品質標準、以效率為導向的思維和面對挑戰性問題的毅力；繼續從開源人工智慧社群的發展中吸收“技術營養素”。
+擁有出色的程式品質標準、以效率為導向的思維和面對挑戰性問題的能力；興趣是研究與參與開源人工智慧社群，並持續關注相關的發展。
 
 ##技能
 
--計算機語言：Rust、Python、C++、Jave、SQL、密碼。
+-計算機語言：Rust、Python、C++、Jave、SQL、Cypher
 
-- 機器學習和深度學習模型培訓和部署工具：Pytorch、Tensorflow、pytorch-lightning、scipy、LightGBM、sklearn、DeepGraphLibrary。）
+- 機器學習和深度學習模型培訓和部署工具：Pytorch、Tensorflow、pytorch-lightning、scipy、LightGBM、sklearn、DeepGraphLibrary
 
 -資料工程技能：
 
-1. 大規模分析資料服務設計、開發和維護（Airflow、Kibana、FastAPI、Grafana）的經驗。
+1. 大規模分析型資料服務設計、開發和維護的經驗 （使用Airflow、Kibana、FastAPI、Grafana）
 
-2. 熟悉關係和圖形資料處理工具（Postgres DB、Duck DB、Neo4j、貓熊、極地和cuDF、PostgresSQL、密碼、Ray）。
+2. 熟悉關聯式資料庫和圖資料庫相關工具（Postgres DB、Duck DB、Neo4j、Pandas、Polars、cuDF、PostgresSQL、Cypher、Ray）。
 
-- Python工具開發：
+- Python套件開發經驗：
 
-1. 用於人工智慧操作的Esun內部python軟體包：sql-tools，[etl-framework]（https://coscup.org/2023/zh-TW/session/FHMWYE），avm-tool
+1. 用於數據處理的企業內部python軟體包：sql-tools，[etl-framework]（https://coscup.org/2023/zh-TW/session/FHMWYE），avm-tool
 
-2. ETL軟體包：[批次框架]（https://pypi.org/project/batch-framework/）
+2. ETL套件：[批次框架]（https://pypi.org/project/batch-framework/）
 
-3. 基於Rust的Python軟體包：[JSkiner]（https://pypi.org/project/JSkiner/）
+3. 基於Rust的Python套件：[JSkiner]（https://pypi.org/project/JSkiner/）
 
-4. 基於LLM的PyPi軟體包：[regex-inference]（https://pypi.org/project/regex-inference/）
+4. 基於LLM的PyPi套件：[regex-inference]（https://pypi.org/project/regex-inference/）
 
-5. 其他PyPi軟體包：[random-regex]（https://pypi.org/project/random-regex/），[jsonschema-inference]（https://pypi.org/project/jsonschema-inference/）
+5. 其他PyPi套件：[random-regex]（https://pypi.org/project/random-regex/），[jsonschema-inference]（https://pypi.org/project/jsonschema-inference/）
 
--專案管理：Scrum、看板、甘特圖。
+-專案管理：Scrum、看板管理。
+
+TODOs: 
+
 
 ##專案
 
