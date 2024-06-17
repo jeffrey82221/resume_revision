@@ -24,23 +24,23 @@ Jeffrey82221@gmail.com TW, 臺北
 
 - 資料工程技能：
 
-1. 大規模分析型資料服務設計、開發和維護的經驗 （使用Airflow、Kibana、FastAPI、Grafana）
+    1. 大規模分析型資料服務設計、開發和維護的經驗 （使用Airflow、Kibana、FastAPI、Grafana）
 
-2. 熟悉關聯式資料庫和圖資料庫相關工具（Postgres DB、Duck DB、Neo4j、Pandas、Polars、cuDF、PostgresSQL、Cypher、Ray）。
+    2. 熟悉關聯式資料庫和圖資料庫相關工具（Postgres DB、Duck DB、Neo4j、Pandas、Polars、cuDF、PostgresSQL、Cypher、Ray）。
 
 - Python套件開發經驗：
 
-1. 用於數據處理的企業內部python軟體包：sql-tools，[etl-framework]（https://coscup.org/2023/zh-TW/session/FHMWYE），avm-tool
+    1. 用於數據處理的企業內部python軟體包：sql-tools，[etl-framework]（https://coscup.org/2023/zh-TW/session/FHMWYE），avm-tool
 
-2. ETL套件：[批次框架]（https://pypi.org/project/batch-framework/）
+    2. ETL套件：[批次框架]（https://pypi.org/project/batch-framework/）
 
-3. 基於Rust的Python套件：[JSkiner]（https://pypi.org/project/JSkiner/）
+    3. 基於Rust的Python套件：[JSkiner]（https://pypi.org/project/JSkiner/）
 
-4. 基於LLM的PyPi套件：[regex-inference]（https://pypi.org/project/regex-inference/）
+    4. 基於LLM的PyPi套件：[regex-inference]（https://pypi.org/project/regex-inference/）
 
-5. 其他PyPi套件：[random-regex]（https://pypi.org/project/random-regex/），[jsonschema-inference]（https://pypi.org/project/jsonschema-inference/）
+    5. 其他PyPi套件：[random-regex]（https://pypi.org/project/random-regex/），[jsonschema-inference]（https://pypi.org/project/jsonschema-inference/）
 
--專案管理：Scrum、看板管理。
+- 專案管理：Scrum、看板管理。
 
 
 ##專案
