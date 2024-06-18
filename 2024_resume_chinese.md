@@ -8,9 +8,9 @@ Jeffrey82221@gmail.com TW, 臺北
 
 ## 職涯簡介
 
-6年以上python開發經驗，專注於大規模人工智慧產品開發，設計相關開發框架和測試方法，以最佳化資料科學和機器學習的研究與部署流程。
+6年以上python開發經驗，專注於企業級人工智慧產品開發，設計相關開發框架和測試方法，以優化資料科學和機器學習的開發與部署流程。
 
-4年以上的金融人工智慧開發經驗，作為開發人員、產品負責人和資料科學部門的專案技術領導，參與各種資料產品的原型設計、開發和部署，包括信貸貸款估算數據流，以及360度客戶知識圖譜資料服務。
+4年以上的金融人工智慧開發經驗，作為開發人員、產品負責人和資料科學專案技術領導，參與各種資料產品的原型設計、開發和部署，包括信貸貸款估算數據流，與客戶知識圖譜資料服務。
 
 參加玉山銀行TMA訓練2年以上，擁有實際支援業務使用者的經驗，並參與關於財務和企業人工智慧推廣的跨部門合作。
 
@@ -18,27 +18,27 @@ Jeffrey82221@gmail.com TW, 臺北
 
 ## 技能
 
-- 程式語言：Rust、Python、C++、Jave、SQL、Cypher
+- 程式語言：Python、SQL、Cypher、Rust、C++、Java
 
-- 機器學習和深度學習模型培訓和部署工具：Pytorch、Tensorflow、pytorch-lightning、scipy、LightGBM、sklearn、DeepGraphLibrary
+- 機器學習和深度學習模型訓練和部署工具：Pytorch、Tensorflow、pytorch-lightning、scipy、LightGBM、sklearn、DeepGraphLibrary
 
-- 資料工程技能：
+- 資料工程：
 
-    1. 大規模分析型資料服務設計、開發和維護的經驗 （使用Airflow、Kibana、FastAPI、Grafana）
+    1. 大規模分析型資料服務設計、開發和維護（使用Airflow、Kibana、FastAPI、Grafana）
 
-    2. 熟悉關聯式資料庫和圖資料庫相關工具（Postgres DB、Duck DB、Neo4j、Pandas、Polars、cuDF、PostgresSQL、Cypher、Ray）。
+    2. 關聯式資料庫和圖資料庫相關工具（Postgres DB、Duck DB、Neo4j、Pandas、Polars、cuDF、PostgresSQL、Cypher、Ray）。
 
-- Python套件開發經驗：
+- Python套件開發：
 
-    1. 用於數據處理的企業內部python軟體包：sql-tools，[etl-framework]（https://coscup.org/2023/zh-TW/session/FHMWYE），avm-tool
+    1. 用於數據處理的企業內部python套件：sql-tools，[etl-framework]（https://coscup.org/2023/zh-TW/session/FHMWYE），avm-tool
 
-    2. ETL套件：[批次框架]（https://pypi.org/project/batch-framework/）
+    2. 開源ETL套件：[批次框架]（https://pypi.org/project/batch-framework/）
 
-    3. 基於Rust的Python套件：[JSkiner]（https://pypi.org/project/JSkiner/）
+    3. 結合Rust的Python套件：[JSkiner]（https://pypi.org/project/JSkiner/）
 
-    4. 基於LLM的PyPi套件：[regex-inference]（https://pypi.org/project/regex-inference/）
+    4. 結合LLM的套件：[regex-inference]（https://pypi.org/project/regex-inference/）
 
-    5. 其他PyPi套件：[random-regex]（https://pypi.org/project/random-regex/），[jsonschema-inference]（https://pypi.org/project/jsonschema-inference/）
+    5. 其他：[random-regex]（https://pypi.org/project/random-regex/），[jsonschema-inference]（https://pypi.org/project/jsonschema-inference/）
 
 - 專案管理：Scrum、看板管理。
 
